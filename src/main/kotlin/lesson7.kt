@@ -31,5 +31,5 @@ fun main(){
 //
 //    println(newName)
 
-    val
+    val m = 3
 }
