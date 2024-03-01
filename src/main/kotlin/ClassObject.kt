@@ -8,8 +8,8 @@ fun main(){
 
 
     house1.floars = 3
-    house1.length = 7
-    house1.width = 7
+    house1.length = 7.0
+    house1.width = 7.0
 
     println(house1.floars)
 
